@@ -1,0 +1,101 @@
+copy %1%2catsim.dat catsim.dat
+call sim1 %1%21 -iseed -1727
+call sim1 %1%22 -iseed 1536
+call sim1 %1%23 -iseed -198
+call sim1 %1%24 -iseed -1818
+call sim1 %1%25 -iseed -2033
+call sim1 %1%26 -iseed 2871
+call sim1 %1%27 -iseed 975
+call sim1 %1%28 -iseed 1255
+call sim1 %1%29 -iseed 577
+call sim1 %1%210 -iseed -2037
+call sim1 %1%211 -iseed 1833
+call sim1 %1%212 -iseed -1227
+call sim1 %1%213 -iseed -1803
+call sim1 %1%214 -iseed -1186
+call sim1 %1%215 -iseed -3100
+call sim1 %1%216 -iseed -2313
+call sim1 %1%217 -iseed 882
+call sim1 %1%218 -iseed 2244
+call sim1 %1%219 -iseed 1500
+call sim1 %1%220 -iseed 1389
+call sim1 %1%221 -iseed 302
+call sim1 %1%222 -iseed -665
+call sim1 %1%223 -iseed -1346
+call sim1 %1%224 -iseed 130
+call sim1 %1%225 -iseed 2218
+call sim1 %1%226 -iseed -1806
+call sim1 %1%227 -iseed 2462
+call sim1 %1%228 -iseed 1673
+call sim1 %1%229 -iseed 3190
+call sim1 %1%230 -iseed 1959
+call sim1 %1%231 -iseed -906
+call sim1 %1%232 -iseed 2461
+call sim1 %1%233 -iseed -452
+call sim1 %1%234 -iseed -374
+call sim1 %1%235 -iseed 898
+call sim1 %1%236 -iseed 3074
+call sim1 %1%237 -iseed 1767
+call sim1 %1%238 -iseed -2381
+call sim1 %1%239 -iseed -1345
+call sim1 %1%240 -iseed 2004
+call sim1 %1%241 -iseed -2036
+call sim1 %1%242 -iseed 1098
+call sim1 %1%243 -iseed 1477
+call sim1 %1%244 -iseed 626
+call sim1 %1%245 -iseed 351
+call sim1 %1%246 -iseed -2122
+call sim1 %1%247 -iseed 1661
+call sim1 %1%248 -iseed -2655
+call sim1 %1%249 -iseed -2906
+call sim1 %1%250 -iseed 3010
+ call sim1 %1%251 -iseed -2950
+ call sim1 %1%252 -iseed -2541
+ call sim1 %1%253 -iseed -2879
+ call sim1 %1%254 -iseed -3167
+ call sim1 %1%255 -iseed 1685
+ call sim1 %1%256 -iseed 2595
+ call sim1 %1%257 -iseed -661
+ call sim1 %1%258 -iseed -3091
+ call sim1 %1%259 -iseed 2840
+ call sim1 %1%260 -iseed -1260
+ call sim1 %1%261 -iseed 920
+ call sim1 %1%262 -iseed -1111
+ call sim1 %1%263 -iseed 2487
+ call sim1 %1%264 -iseed -1888
+ call sim1 %1%265 -iseed 257
+ call sim1 %1%266 -iseed 794
+ call sim1 %1%267 -iseed -1225
+ call sim1 %1%268 -iseed 2658
+ call sim1 %1%269 -iseed 1022
+ call sim1 %1%270 -iseed -348
+ call sim1 %1%271 -iseed 644
+ call sim1 %1%272 -iseed 2992
+ call sim1 %1%273 -iseed 2122
+ call sim1 %1%274 -iseed -2141
+ call sim1 %1%275 -iseed -2557
+ call sim1 %1%276 -iseed 2590
+ call sim1 %1%277 -iseed 1652
+ call sim1 %1%278 -iseed 2864
+ call sim1 %1%279 -iseed 884
+ call sim1 %1%280 -iseed 1282
+ call sim1 %1%281 -iseed -1794
+ call sim1 %1%282 -iseed 2508
+ call sim1 %1%283 -iseed -2920
+ call sim1 %1%284 -iseed -1241
+ call sim1 %1%285 -iseed 3179
+ call sim1 %1%286 -iseed -2617
+ call sim1 %1%287 -iseed -1263
+ call sim1 %1%288 -iseed -2040
+ call sim1 %1%289 -iseed -2403
+ call sim1 %1%290 -iseed -2911
+ call sim1 %1%291 -iseed 1692
+ call sim1 %1%292 -iseed -1865
+ call sim1 %1%293 -iseed -1749
+ call sim1 %1%294 -iseed -1308
+ call sim1 %1%295 -iseed -3161
+ call sim1 %1%296 -iseed 489
+ call sim1 %1%297 -iseed -169
+ call sim1 %1%298 -iseed -1277
+ call sim1 %1%299 -iseed 1788
+call sim1 %1%2100 -iseed -454

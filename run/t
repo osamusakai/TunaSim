@@ -1,0 +1,208 @@
+
+====> 10ccatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Trend in q
+# sample_size
+400
+# effort_sd
+   0.2
+#nyrs
+  40
+#nages
+
+====> 10rcatsim.dat <====
+
+# Rho_sd    
+ 0.05 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 11rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size low sample size, high f devs
+ 100 
+# effort_sd
+   0.4
+#nyrs
+  40
+
+====> 12rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 13rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size Flat trajectory
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 1ccatsim.dat <====
+
+# Rho_sd    
+ 0 
+# no Trend in q
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+#nages
+
+====> 1rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 2rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.4
+#nyrs
+  40
+
+====> 3rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.01
+#nyrs
+  40
+
+====> 4rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 5rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 6rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 7rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 8rcatsim.dat <====
+
+# Rho_sd    low var in growth
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> 9rcatsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    Catch uncertain
+ 0.3 
+# Sample size 
+ 400 
+# effort_sd
+   0.2
+#nyrs
+  40
+
+====> catsim.dat <====
+
+# Rho_sd    
+ 0 
+# Catch_sd    
+ 0 
+# Sample size 
+ 400 
+# effort_sd
+   0.4
+#nyrs
+  40

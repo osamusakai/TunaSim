@@ -1,0 +1,8 @@
+Perhaps look at 2 contrasting levels of
+variability in each of effort_devs and length-at-age, and maybe also
+recruitment to see how the estimates depend on these things. Some small
+proportion of outliers should also be thrown in to see how the robustness
+works. You may also want to keeps separate results for analyses where M is
+estimated independently and where M is assumed at its correct value.
+
+

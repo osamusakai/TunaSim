@@ -1,0 +1,9 @@
+# The von Bertalanffy parameters
+29.0  20.0   40.0 
+100.4  90.0   180.0 
+0.15   0   0.2 
+# Variance parameters
+2.5  1.5   8.5 
+0.0  -0.69   0.69 
+# The number of mean constraints
+0
